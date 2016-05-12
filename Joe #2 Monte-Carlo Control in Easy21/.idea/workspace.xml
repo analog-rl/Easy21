@@ -24,7 +24,7 @@
       <file leaf-file-name="easy21.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy21.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
+            <state relative-caret-position="509">
               <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -56,8 +56,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/easy21 tests.ipynb" />
-        <option value="$PROJECT_DIR$/Joe #2 Monte-Carlo Control in Easy21.ipynb" />
         <option value="$PROJECT_DIR$/easy21.py" />
+        <option value="$PROJECT_DIR$/Joe #2 Monte-Carlo Control in Easy21.ipynb" />
       </list>
     </option>
   </component>
@@ -373,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy21.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
+        <state relative-caret-position="509">
           <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -384,7 +384,7 @@
     <entry file="file://$PROJECT_DIR$/Joe #2 Monte-Carlo Control in Easy21.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
