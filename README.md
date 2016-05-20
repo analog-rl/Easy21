@@ -6,7 +6,7 @@ from: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 Sections
 - [x] #1-Implementation of Easy21
 - [x] #2 Monte-Carlo Control in Easy21
-- [ ] #3 TD Learning in Easy21
+- [x] #3 TD Learning in Easy21
 - [ ] #4 Linear Function Approximation in Easy21
 - [ ] #5 Discussion
 
